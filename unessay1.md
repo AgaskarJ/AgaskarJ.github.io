@@ -15,12 +15,17 @@ At the beginning of the year, I was on my way out of Marino center from the fron
 
 A so-called “Norman Door” has design elements that give you the wrong usability signals to the point that special signage is needed to clarify how they work. Without signs, a user is left guessing about whether to push or pull, creating needless frustration.
 
+<img src="images/redbutton.png" width=300> 
 
-![](images/redbutton.png)
-![](images/greenbutton.png)
+<img src="images/greenbutton.png" width=300> 
 
 There is no reason for these backward designs to persist, since various working solutions to the problem already exist, and yet these horrible doors are still all around us in the built environment.
 
 This peculiar design problem is part of what motivated Don Norman (hence: Norman Door) to write his now-classic book The Design of Everyday Things. Similar issues can be found in other everyday objects as well, from light switches and sink handles, which frequently feature counter-intuitive functions or modes of operation.
 
 An advocate of user-centric (or: people-oriented) design, Norman offers insights that bring together aspects of usability, engineering, and cognitive science. His book provides an enlightening look into the intersection of these disciplines and design, informative and educational for users and designers alike.
+
+
+ideas: book covers
+books are in black and white how do they attract
+make a hypothesis 
