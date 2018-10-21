@@ -15,9 +15,10 @@ At the beginning of the year, I was on my way out of Marino center from the fron
 
 A so-called “Norman Door” has design elements that give you the wrong usability signals to the point that special signage is needed to clarify how they work. Without signs, a user is left guessing about whether to push or pull, creating needless frustration.
 
-<img src="images/redbutton.png" width=300> 
 
-<img src="images/greenbutton.png" width=300> 
+![](./images/redbutton.png)
+![](./images/greenbutton.png)
+
 
 There is no reason for these backward designs to persist, since various working solutions to the problem already exist, and yet these horrible doors are still all around us in the built environment.
 
