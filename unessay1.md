@@ -22,8 +22,8 @@ Correspondingly, we have to consider the effects of colors on users for developi
 
 Here are two buttons: 
 
-[![](./unessay1red.md)](./images/redbutton.png)
-[![](./unessay1green.md)](./images/greenbutton.png)
+![](./images/redbutton.png)
+![](./images/greenbutton.png)
 
 If you chose red, then you are among the majority: an overwhelming 76% would click on this button
 Else, if you chose green, you are in the minority. However, choosing this means that you value security and trust the website that you are browsing. 
