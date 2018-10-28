@@ -5,6 +5,10 @@ layout: default
 
 You can read my first Unessay [here](./unessay1)
 
+# No Digital Day
+
+You can read my reflection to No Digital Day [here](./nodd)
+
 # BLOGS
 
 ## Blog 3 - Memes
