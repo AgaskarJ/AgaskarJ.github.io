@@ -21,7 +21,7 @@ But I can confidently say that we are moving towards cultural appropriation, mor
 
 Finally, thinking beyond use of digital blackface for GIFs, I considered use of black emojis. I know some friends who use the black emoji because it comes off as unexpected, since we all just use the default yellow emoji. However, questions can also arise about whether us inhabiting this black persona is culturally appropriate. One particular one is the dancing black man; perhaps they wanted to convey they are "street" or "hip".  
 
-Based n the article by Lauren Michelle Jackson: [here](https://www.teenvogue.com/story/digital-blackface-reaction-gifs)
+Based on We Need To Talk About Digital Blackface in Reaction GIFs by Lauren Michelle Jackson: [here](https://www.teenvogue.com/story/digital-blackface-reaction-gifs)
 
 ## Blog 3 - Memes
 
