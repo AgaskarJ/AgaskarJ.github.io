@@ -11,6 +11,8 @@ You can read my reflection to No Digital Day [here](./nodd)
 
 # BLOGS
 
+## Blog 5 - 
+
 ## Blog 4 - Digital Blackface
 
 Last week we read an article on digital blackface, which was a topic I was familiar with already having come across this debate in the past. The author of the Teen Vogue article describes the term as "various types of minstrel performance that become available in cyberspace". This may be accurate, however, I would argue that this definition would be different from what we define as traditional blackface. Last semester I took a course in Film where we watched Birth of A Nation (1915).  In it, white actors portrayed black men by painting their faces black, thus, blackface. Back then, racism was much more prevalent, and in today's progressive society this would no longer be acceptable. Nevertheless, even though the author makes convincing points about use of black GIFs, I believe that digital blackface expresses a different meaning.
